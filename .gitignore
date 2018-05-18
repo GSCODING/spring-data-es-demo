@@ -17,5 +17,7 @@ gradle-app.setting
 
 .idea
 gradle
-.gitignore
+spring-es-demo/gradlew
+spring-es-demo/gradlew.bat
+spring-es-demo/out
 
